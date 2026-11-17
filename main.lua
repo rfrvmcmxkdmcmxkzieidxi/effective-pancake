@@ -4,7 +4,7 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ObsidianUI/Obsidian/main/Source.lua"))()
 
 local Window = Library:CreateWindow({
-    Name = "Duessksaken 1.p",
+    Name = "Duessksaken 1.0",
     Theme = "Dark",
     LoadingEnabled = true,
     LoadingTitle = "Duessksaken",
